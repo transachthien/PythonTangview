@@ -1,0 +1,214 @@
+ 29  </ytd-badge-supported-renderer>
+    30:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=z0NzorviKXU&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=1" aria-label="Course: Data Structures and Algorithms Real Battle with #Java and #LeetCode by The Brown Box 4 weeks ago 6 minutes, 30 seconds" title="Course: Data Structures and Algorithms Real Battle with #Java and #LeetCode"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    31            Course: Data Structures and Algorithms Real Battle with #Java and #LeetCode
+
+   104  </ytd-badge-supported-renderer>
+   105:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=yyyVXSihRCQ&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=2" aria-label="#LeetCode [Tập 81]: 386. Lexicographical Numbers (Cách 2) #DFS #ĐệQuy #Recursion by The Brown Box 3 days ago 14 minutes, 3 seconds" title="#LeetCode [Episode 81]: 386. Lexicographical Numbers (Option 2) #DFS #Recursion #Recursion"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+   106            #LeetCode [Episode 81]: 386. Lexicographical Numbers (Option 2) #DFS #Recursion #Recursion
+
+   179  </ytd-badge-supported-renderer>
+   180:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=yITg6Uk-o8Y&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=3" aria-label="#LeetCode [Episode 66]: 401. Binary Watch |  Bit manipulation by The Brown Box 1 week ago 25 minutes" title="#LeetCode [Episode 66]: 401. Binary Watch |  Operations with bits"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+   181            #LeetCode [Episode 66]: 401. Binary Watch | </font><font style="vertical-align: inherit;">Operations with bits
+
+   254  </ytd-badge-supported-renderer>
+   255:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=5BAEKVe2V_c&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=4" aria-label="Daily #LeetCode Challenge [40]: 704. Binary Search. (#bsearch #recursion) by The Brown Box 11 months ago 10 minutes, 56 seconds" title="Daily #LeetCode Challenge [40]: 704. Binary Search. (#bsearch #recursion)">
+   256            Daily #LeetCode Challenge [40]: 704. Binary Search. (#bsearch #recursion)
+
+   329  </ytd-badge-supported-renderer>
+   330:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=lgCwEYJVuUc&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=5" aria-label="Daily #LeetCode Challenge [39]: 24. Swap Nodes in Pairs. (#linkedlist #recursion) by The Brown Box 11 months ago 15 minutes" title="Daily #LeetCode Challenge [39]: 24. Swap Nodes in Pairs. (#linkedlist #recursion)">
+   331            Daily #LeetCode Challenge [39]: 24. Swap Nodes in Pairs. (#linkedlist #recursion)
+
+   404  </ytd-badge-supported-renderer>
+   405:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=XF6MyehncDw&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=6" aria-label="Daily #LeetCode Challenge [38]: 21. Merge Two Sorted Lists. (#linkedlist #recursion) by The Brown Box 11 months ago 21 minutes" title="Daily #LeetCode Challenge [38]: 21. Merge Two Sorted Lists. (#linkedlist #recursion)">
+   406            Daily #LeetCode Challenge [38]: 21. Merge Two Sorted Lists. (#linkedlist #recursion)
+
+   479  </ytd-badge-supported-renderer>
+   480:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=B6mgXhAU_f4&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=7" aria-label="Daily #LeetCode Challenge [37]: 206. Reverse Linked List. (#linkedlist #recursion) by The Brown Box 11 months ago 23 minutes" title="Daily #LeetCode Challenge [37]: 206. Reverse Linked List. (#linkedlist #recursion)">
+   481            Daily #LeetCode Challenge [37]: 206. Reverse Linked List. (#linkedlist #recursion)
+
+   554  </ytd-badge-supported-renderer>
+   555:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=Cz9N-289VC8&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=8" aria-label="Daily LeetCode Challenge [36]: 50. Pow(x, n) (#recursion) by The Brown Box 1 year ago 15 minutes" title="Daily LeetCode Challenge [36]: 50. Pow(x, n) (#recursion)">
+   556            Daily LeetCode Challenge [36]: 50. Pow(x, n) (#recursion)
+
+   629  </ytd-badge-supported-renderer>
+   630:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=JOixabUWrBQ&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=9" aria-label="Daily LeetCode Challenge [35]: 509. Fibonacci Number (#recursion) by The Brown Box 1 year ago 8 minutes, 46 seconds" title="Daily LeetCode Challenge [35]: 509. Fibonacci Number (#recursion)">
+   631            Daily LeetCode Challenge [35]: 509. Fibonacci Number (#recursion)
+
+   704  </ytd-badge-supported-renderer>
+   705:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=SEtxn9UPIW4&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=10" aria-label="Daily LeetCode Challenge [34]: 344. Reverse String (#recursion) by The Brown Box 1 year ago 5 minutes, 11 seconds" title="Daily LeetCode Challenge [34]: 344. Reverse String (#recursion)">
+   706            Daily LeetCode Challenge [34]: 344. Reverse String (#recursion)
+
+   779  </ytd-badge-supported-renderer>
+   780:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=tHo18sWKqDs&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=11" aria-label="Data Structures &amp; Algorithms [06]: Recursion - #Recursion by The Brown Box 1 year ago 48 minutes" title="Data Structures &amp; Algorithms [06]: Recursion - #Recursion"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+   781            Data Structures &amp; Algorithms [06]: Recursion - #Recursion
+
+   854  </ytd-badge-supported-renderer>
+   855:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=85XPN57Z0QU&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=12" aria-label="Daily LeetCode Challenge [33]: 394. Decode String. (#stack) by The Brown Box 1 year ago 15 minutes" title="Daily LeetCode Challenge [33]: 394. Decode String. (#stack)">
+   856            Daily LeetCode Challenge [33]: 394. Decode String. (#stack)
+
+   929  </ytd-badge-supported-renderer>
+   930:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=SmWxMj31lGA&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=13" aria-label="Daily LeetCode Challenge [32]: 225. Implement Stack using Queues. (#stack #queue) by The Brown Box 1 year ago 13 minutes, 39 seconds" title="Daily LeetCode Challenge [32]: 225. Implement Stack using Queues. (#stack #queue)">
+   931            Daily LeetCode Challenge [32]: 225. Implement Stack using Queues. (#stack #queue)
+
+  1004  </ytd-badge-supported-renderer>
+  1005:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=Bwicsjb5AT4&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=14" aria-label="Daily LeetCode Challenge [31]: 232. Implement Queue using Stacks. (#stack #queue) by The Brown Box 1 year ago 12 minutes, 8 seconds" title="Daily LeetCode Challenge [31]: 232. Implement Queue using Stacks. (#stack #queue)">
+  1006            Daily LeetCode Challenge [31]: 232. Implement Queue using Stacks. (#stack #queue)
+
+  1079  </ytd-badge-supported-renderer>
+  1080:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=fMIhbp0RmjE&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=15" aria-label="Daily LeetCode Challenge [30]: 155. Min Stack. (#stack) by The Brown Box 1 year ago 13 minutes, 4 seconds" title="Daily LeetCode Challenge [30]: 155. Min Stack. (#stack)">
+  1081            Daily LeetCode Challenge [30]: 155. Min Stack. (#stack)
+
+  1154  </ytd-badge-supported-renderer>
+  1155:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=zACuyV5mMOo&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=16" aria-label="Daily LeetCode Challenge [29]: 20. Valid Parentheses. (#stack #linkedlist) by The Brown Box 1 year ago 18 minutes" title="Daily LeetCode Challenge [29]: 20. Valid Parentheses. (#stack #linkedlist)">
+  1156            Daily LeetCode Challenge [29]: 20. Valid Parentheses. (#stack #linkedlist)
+
+  1229  </ytd-badge-supported-renderer>
+  1230:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=cXz4UThVVzE&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=17" aria-label="Daily LeetCode Challenge [28]: 622. Design Circular Queue. (#queue #array) by The Brown Box 1 year ago 15 minutes" title="Daily LeetCode Challenge [28]: 622. Design Circular Queue. (#queue #array)">
+  1231            Daily LeetCode Challenge [28]: 622. Design Circular Queue. (#queue #array)
+
+  1304  </ytd-badge-supported-renderer>
+  1305:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=jYLW3E4EMyg&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=18" aria-label="Data Structures &amp; Algorithms [05]: Stacks - Queues (#Stack and #Queue) by The Brown Box 1 year ago 6 minutes, 29 seconds" title="Data Structures &amp; Algorithms [05]: Stack - Queue (#Stack and #Queue)"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  1306            Data Structures &amp; Algorithms [05]: Stack - Queue (#Stack and #Queue)
+
+  1379  </ytd-badge-supported-renderer>
+  1380:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=6IOn_ZNEp8g&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=19" aria-label="Daily LeetCode Challenge [27]: 66. Plus one. (#array) by The Brown Box 1 year ago 15 minutes" title="Daily LeetCode Challenge [27]: 66. Plus one. (#array)">
+  1381            Daily LeetCode Challenge [27]: 66. Plus one. (#array)
+
+  1454  </ytd-badge-supported-renderer>
+  1455:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=eFmikAqRsNc&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=20" aria-label="Daily LeetCode Challenge [26]: 234. Palindrome Linked List. (#linkedlist) by The Brown Box 1 year ago 22 minutes" title="Daily LeetCode Challenge [26]: 234. Palindrome Linked List. (#linkedlist)">
+  1456            Daily LeetCode Challenge [26]: 234. Palindrome Linked List. (#linkedlist)
+
+  1529  </ytd-badge-supported-renderer>
+  1530:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=ipovEFTOGyE&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=21" aria-label="Daily LeetCode Challenge [25]: 747. Largest Number At Least Twice of Others. (#array) by The Brown Box 1 year ago 7 minutes, 7 seconds" title="Daily LeetCode Challenge [25]: 747. Largest Number At Least Twice of Others. (#array)">
+  1531            Daily LeetCode Challenge [25]: 747. Largest Number At Least Twice of Others. (#array)
+
+  1604  </ytd-badge-supported-renderer>
+  1605:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=YqOf8XD_0Ko&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=22" aria-label="Daily LeetCode Challenge [24]: 724. Find Pivot Index. (#array) by The Brown Box 1 year ago 28 minutes" title="Daily LeetCode Challenge [24]: 724. Find Pivot Index. (#array)">
+  1606            Daily LeetCode Challenge [24]: 724. Find Pivot Index. (#array)
+
+  1679  </ytd-badge-supported-renderer>
+  1680:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=BHbKJeXeW4E&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=23" aria-label="Daily LeetCode Challenge [23]: 328. Odd Even Linked List. (#linkedlist) by The Brown Box 1 year ago 26 minutes" title="Daily LeetCode Challenge [23]: 328. Odd Even Linked List. (#linkedlist)">
+  1681            Daily LeetCode Challenge [23]: 328. Odd Even Linked List. (#linkedlist)
+
+  1754  </ytd-badge-supported-renderer>
+  1755:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=nIT3aO0pCJU&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=24" aria-label="Daily LeetCode Challenge [22]: 203. Remove Linked List Elements. (#linkedlist) by The Brown Box 1 year ago 8 minutes, 9 seconds" title="Daily LeetCode Challenge [22]: 203. Remove Linked List Elements. (#linkedlist)">
+  1756            Daily LeetCode Challenge [22]: 203. Remove Linked List Elements. (#linkedlist)
+
+  1829  </ytd-badge-supported-renderer>
+  1830:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=e29cATDEe2w&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=25" aria-label="Daily LeetCode Challenge [21]: 206. Reverse Linked List. (#linkedlist) by The Brown Box 1 year ago 12 minutes, 46 seconds" title="Daily LeetCode Challenge [21]: 206. Reverse Linked List. (#linkedlist)">
+  1831            Daily LeetCode Challenge [21]: 206. Reverse Linked List. (#linkedlist)
+
+  1904  </ytd-badge-supported-renderer>
+  1905:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=N8jsojWHIgY&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=26" aria-label="Daily LeetCode Challenge [20]: 19. Remove Nth Node From End of List. (#linkedlist) by The Brown Box 1 year ago 11 minutes, 21 seconds" title="Daily LeetCode Challenge [20]: 19. Remove Nth Node From End of List. (#linkedlist)">
+  1906            Daily LeetCode Challenge [20]: 19. Remove Nth Node From End of List. (#linkedlist)
+
+  1979  </ytd-badge-supported-renderer>
+  1980:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=pKSQvjeuWM4&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=27" aria-label="Daily LeetCode Challenge [19]: 160. Intersection of Two Linked Lists. (#linkedlist) by The Brown Box 1 year ago 16 minutes" title="Daily LeetCode Challenge [19]: 160. Intersection of Two Linked Lists. (#linkedlist)">
+  1981            Daily LeetCode Challenge [19]: 160. Intersection of Two Linked Lists. (#linkedlist)
+
+  2054  </ytd-badge-supported-renderer>
+  2055:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=YxtsZfc-zp4&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=28" aria-label="Cấu trúc dữ liệu &amp; Giải thuật [04]: Floyd's Cycle Detection-Xác định Cycle Linked List #linkedlist by The Brown Box 1 year ago 16 minutes" title="Cấu trúc dữ liệu &amp; Giải thuật [04]: Floyd's Cycle Detection-Xác định Cycle Linked List #linkedlist">
+  2056            Cấu trúc dữ liệu &amp; Giải thuật [04]: Floyd's Cycle Detection-Xác định Cycle Linked List #linkedlist
+
+  2129  </ytd-badge-supported-renderer>
+  2130:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=6yfoH8OAQu8&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=29" aria-label="Daily LeetCode Challenge [18]: 142. Linked List Cycle II. (#linkedlist) by The Brown Box 1 year ago 12 minutes, 10 seconds" title="Daily LeetCode Challenge [18]: 142. Linked List Cycle II. (#linkedlist)">
+  2131            Daily LeetCode Challenge [18]: 142. Linked List Cycle II. (#linkedlist)
+
+  2204  </ytd-badge-supported-renderer>
+  2205:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=iQZkN44SHpY&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=30" aria-label="Daily LeetCode Challenge [17]: 141. Linked List Cycle. (#linkedlist) by The Brown Box 1 year ago 11 minutes, 50 seconds" title="Daily LeetCode Challenge [17]: 141. Linked List Cycle. (#linkedlist)">
+  2206            Daily LeetCode Challenge [17]: 141. Linked List Cycle. (#linkedlist)
+
+  2279  </ytd-badge-supported-renderer>
+  2280:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=1-AXNmmNW7E&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=31" aria-label="Daily LeetCode Challenge [16]: 707. Design Linked List. (#linkedlist) by The Brown Box 1 year ago 19 minutes" title="Daily LeetCode Challenge [16]: 707. Design Linked List. (#linkedlist)">
+  2281            Daily LeetCode Challenge [16]: 707. Design Linked List. (#linkedlist)
+
+  2354  </ytd-badge-supported-renderer>
+  2355:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=1j-fMOGdE-Q&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=32" aria-label="Daily LeetCode Challenge [15]: 448. Find All Numbers Disappeared in an Array. (#array) by The Brown Box 1 year ago 7 minutes, 32 seconds" title="Daily LeetCode Challenge [15]: 448. Find All Numbers Disappeared in an Array. (#array)">
+  2356            Daily LeetCode Challenge [15]: 448. Find All Numbers Disappeared in an Array. (#array)
+
+  2429  </ytd-badge-supported-renderer>
+  2430:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=jc99cVBkac0&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=33" aria-label="Daily LeetCode Challenge [14]: 414. Third Maximum Number. (#array, #sort) by The Brown Box 1 year ago 15 minutes" title="Daily LeetCode Challenge [14]: 414. Third Maximum Number. (#array, #sort)">
+  2431            Daily LeetCode Challenge [14]: 414. Third Maximum Number. (#array, #sort)
+
+  2504  </ytd-badge-supported-renderer>
+  2505:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=0Q3RBacgpjM&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=34" aria-label="Cấu trúc dữ liệu &amp; Giải thuật [03]: Danh sách liên kết đơn - Singly Linked List #linkedlist by The Brown Box 1 year ago 11 minutes, 26 seconds" title="Cấu trúc dữ liệu &amp; Giải thuật [03]: Danh sách liên kết đơn - Singly Linked List #linkedlist">
+  2506          
+  2579  </ytd-badge-supported-renderer>
+  2580:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=vcXTtMlDhLs&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=35" aria-label="Daily LeetCode Challenge [13]: 1051.&nbsp;Height Checker. (#array, #sort) by The Brown Box 1 year ago 7 minutes, 40 seconds" title="Daily LeetCode Challenge [13]: 1051.&nbsp;Height Checker. (#array, #sort)">
+  2581            Daily LeetCode Challenge [13]: 1051.&nbsp;Height Checker. (#array, #sort)
+
+  2654  </ytd-badge-supported-renderer>
+  2655:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=09MKgIyj_1w&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=36" aria-label="Cấu trúc dữ liệu &amp; Giải thuật [02]: Sorting - Thuật toán Sắp xếp by The Brown Box 1 year ago 23 minutes" title="Cấu trúc dữ liệu &amp; Giải thuật [02]: Sorting - Thuật toán Sắp xếp">
+ 
+
+  2729  </ytd-badge-supported-renderer>
+  2730:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=9IjY90pkWj0&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=37" aria-label="Daily LeetCode Challenge [12]: 905. Sort Array By Parity. (#array) by The Brown Box 1 year ago 8 minutes, 38 seconds" title="Daily LeetCode Challenge [12]: 905. Sort Array By Parity. (#array)">
+  2731            Daily LeetCode Challenge [12]: 905. Sort Array By Parity. (#array)
+
+  2804  </ytd-badge-supported-renderer>
+  2805:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=IRoOEsNqgzM&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=38" aria-label="Cấu trúc dữ liệu &amp; Giải thuật [01]: Array - Mảng. #array by The Brown Box 1 year ago 23 minutes" title="Cấu trúc dữ liệu &amp; Giải thuật [01]: Array - Mảng. #array">
+
+
+  2879  </ytd-badge-supported-renderer>
+  2880:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=UsUTHGbpvzY&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=39" aria-label="Daily LeetCode Challenge [11]: 283. Move Zeroes. (#array) by The Brown Box 1 year ago 6 minutes, 22 seconds" title="Daily LeetCode Challenge [11]: 283. Move Zeroes. (#array)">
+  2881            Daily LeetCode Challenge [11]: 283. Move Zeroes. (#array)
+
+  2954  </ytd-badge-supported-renderer>
+  2955:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=FAQtUPvtwEc&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=40" aria-label="Daily LeetCode Challenge [10]: 1299. Replace Elements with Greatest Element on Right Side. (#array) by The Brown Box 1 year ago 5 minutes, 48 seconds" title="Daily LeetCode Challenge [10]: 1299. Replace Elements with Greatest Element on Right Side. (#array)">
+  2956            Daily LeetCode Challenge [10]: 1299. Replace Elements with Greatest Element on Right Side. (#array)
+
+  3029  </ytd-badge-supported-renderer>
+  3030:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=5tZarJ6LiZc&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=41" aria-label="Daily LeetCode Challenge [09]: 941. Valid Mountain Array. (#array) by The Brown Box 1 year ago 10 minutes, 12 seconds" title="Daily LeetCode Challenge [09]: 941. Valid Mountain Array. (#array)">
+  3031            Daily LeetCode Challenge [09]: 941. Valid Mountain Array. (#array)
+
+  3104  </ytd-badge-supported-renderer>
+  3105:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=OSgK6a_y-SI&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=42" aria-label="[DailyLeetCodeChallenge][08]: 1346. Check If N and Its Double Exist. (#array) by The Brown Box 1 year ago 4 minutes, 6 seconds" title="[DailyLeetCodeChallenge][08]: 1346. Check If N and Its Double Exist. (#array)">
+  3106            [DailyLeetCodeChallenge][08]: 1346. Check If N and Its Double Exist. (#array)
+
+  3179  </ytd-badge-supported-renderer>
+  3180:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=pMK8R3M_Lwk&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=43" aria-label="Daily LeetCode Challenge [07]: 26. Remove Duplicates from Sorted Array. (#array) by The Brown Box 1 year ago 8 minutes, 26 seconds" title="Daily LeetCode Challenge [07]: 26. Remove Duplicates from Sorted Array. (#array)">
+  3181            Daily LeetCode Challenge [07]: 26. Remove Duplicates from Sorted Array. (#array)
+
+  3254  </ytd-badge-supported-renderer>
+  3255:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=AOP4FhSnkHE&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=44" aria-label="Daily LeetCode Challenge [06]: 27. Remove Element. (#array) by The Brown Box 1 year ago 6 minutes, 58 seconds" title="Daily LeetCode Challenge [06]: 27. Remove Element. (#array)">
+  3256            Daily LeetCode Challenge [06]: 27. Remove Element. (#array)
+
+  3329  </ytd-badge-supported-renderer>
+  3330:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=-x9T4LBrTmA&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=45" aria-label="Daily LeetCode Challenge [05]: 88. Merge Sorted Array. (#array) by The Brown Box 1 year ago 15 minutes" title="Daily LeetCode Challenge [05]: 88. Merge Sorted Array. (#array)">
+  3331            Daily LeetCode Challenge [05]: 88. Merge Sorted Array. (#array)
+
+  3404  </ytd-badge-supported-renderer>
+  3405:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=RzKE5ZIg1gc&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=46" aria-label="Daily LeetCode Challenge [04]: 1089. Duplicate Zeros. (#array) by The Brown Box 1 year ago 10 minutes, 11 seconds" title="Daily LeetCode Challenge [04]: 1089. Duplicate Zeros. (#array)">
+  3406            Daily LeetCode Challenge [04]: 1089. Duplicate Zeros. (#array)
+
+  3479  </ytd-badge-supported-renderer>
+  3480:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=BJNvpYLw4Rg&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=47" aria-label="Daily LeetCode Challenge [03]: 977. Squares of a Sorted Array. (#array, #sort) by The Brown Box 1 year ago 15 minutes" title="Daily LeetCode Challenge [03]: 977. Squares of a Sorted Array. (#array, #sort)">
+  3481            Daily LeetCode Challenge [03]: 977. Squares of a Sorted Array. (#array, #sort)
+
+  3554  </ytd-badge-supported-renderer>
+  3555:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=Lh1cpUO0ywc&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=48" aria-label="Daily LeetCode Challenge [02]: 1295. Find Numbers with Even Number of Digits. (#array) by The Brown Box 1 year ago 14 minutes, 24 seconds" title="Daily LeetCode Challenge [02]: 1295. Find Numbers with Even Number of Digits. (#array)">
+  3556            Daily LeetCode Challenge [02]: 1295. Find Numbers with Even Number of Digits. (#array)
+
+  3629  </ytd-badge-supported-renderer>
+  3630:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=VIHXxOWeszQ&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=49" aria-label="Daily LeetCode Challenge : Một số lưu ý trước khi bắt đầu by The Brown Box 1 year ago 7 minutes, 17 seconds" title="Daily LeetCode Challenge : Một số lưu ý trước khi bắt đầu">
+  3631            Daily LeetCode Challenge :
+
+  3704  </ytd-badge-supported-renderer>
+  3705:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=MxAybn96rlQ&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=50" aria-label="Daily LeetCode Challenge [01]: 485 Max Consecutive Ones. (#array) by The Brown Box 1 year ago 12 minutes, 56 seconds" title="Daily LeetCode Challenge [01]: 485 Max Consecutive Ones. (#array)">
+  3706            Daily LeetCode Challenge [01]: 485 Max Consecutive Ones. (#array)
+
+  3779  </ytd-badge-supported-renderer>
+  3780:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=9EqZrpEs5rw&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=51" aria-label="[DailyLeetCodeChallenge]: Bắt đầu dự án Daily LeetCode Challenge by The Brown Box 1 year ago 4 minutes, 59 seconds" title="[DailyLeetCodeChallenge]: Bắt đầu dự án Daily LeetCode Challenge"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  3781            [DailyLeetCodeChallenge]: Start of the Daily LeetCode Challenge project
+
+  3854  </ytd-badge-supported-renderer>
+  3855:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=REAaQE7rIqM&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=52" aria-label="Tham gia group facebook cho học viên &amp; Promotion kết thúc trong tháng 7 by The Brown Box 3 weeks ago 2 minutes, 3 seconds" title="Tham gia group facebook cho học viên &amp; Promotion kết thúc trong tháng 7"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  3856            Join facebook group for students &amp; Promotion ends in July
+
+  3929  </ytd-badge-supported-renderer>
+  3930:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=0u0pkBKZoXk&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=53" aria-label="Sử dụng Thuật Toán để giải trò chơi #Sudoku | #backtracking | Quay Lui by The Brown Box 3 weeks ago 44 minutes" title="Sử dụng Thuật Toán để giải trò chơi #Sudoku | #backtracking | Quay Lui"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  3931            Use Algorithms to solve the game #Sudoku | </font><font style="vertical-align: inherit;">#backtracking | </font><font style="vertical-align: inherit;">Backtracking
+
+  4004  </ytd-badge-supported-renderer>
+  4005:         <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=dMyhU07qcgs&amp;list=PLqLksqdSk4b37pGIyfy_266wP0-S68HDh&amp;index=54" aria-label="Cấu trúc dữ liệu &amp; Giải thuật [14]: #HashTable | Bảng Băm | #Set &amp; #Map by The Brown Box 2 weeks ago 1 hour, 46 minutes" title="Cấu trúc dữ liệu &amp; Giải thuật [14]: #HashTable | Bảng Băm | #Set &amp; #Map"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  4006            Data Structures &amp; Algorithms [14]: #HashTable | </font><font style="vertical-align: inherit;">Hash Table | </font><font style="vertical-align: inherit;">#Set &amp; #Map
